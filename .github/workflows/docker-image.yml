@@ -10,7 +10,7 @@ on:
     
 
 env:
-  IMAGE_NAME: atmoz/github_actions
+  IMAGE_NAME: atmoz_github_actions
 
 jobs:
   # Run tests.
